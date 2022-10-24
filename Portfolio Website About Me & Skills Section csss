@@ -1,0 +1,68 @@
+# mini-projects
+Front end based mini projects by using Bootstrap, HTML &amp; CSS
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.skills-card-heading {
+    color: white;
+    font-size: 20px;
+    font-family: "roboto";
+
+}
+
+.skills-card-image {
+    height: 80px;
+    width: 80px;
+}
+
+.skills-card-container {
+    background-color: #323f4b;
+    border-radius: 6px;
+
+}
+
+.skills-section-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "roboto";
+
+}
+
+
+
+
+.portfolio-website-section {
+    background-color: #1f2933;
+}
+
+.about-me-card-container {
+    background-color: #323f4b;
+    width: 90vh;
+}
+
+.about-me-card-side-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "roboto";
+
+}
+
+.about-me-card-heading {
+    color: white;
+    font-size: 40px;
+    font-family: "roboto";
+    font-weight: bold;
+
+}
+
+.about-me-card-description {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-family: "roboto";
+
+
+}
+
+
+
+.about-me-card-image {
+    width: 75vh;
